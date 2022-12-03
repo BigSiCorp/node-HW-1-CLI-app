@@ -63,8 +63,3 @@ module.exports = {
   removeContact,
   addContact,
 };
-
-// console.log(listContacts());
-// getContactById("2");
-// removeContact("2");
-// /console.log(addContact("Lera", "Lera@gmail.com", "095095"));
